@@ -22,6 +22,7 @@ public class Gui extends JFrame {
 			f.setSize(200, 200);
 			f.setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 			f.setVisible(true);
+			//bla
 		}
 	
      
