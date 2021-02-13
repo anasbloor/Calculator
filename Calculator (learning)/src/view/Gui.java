@@ -12,6 +12,7 @@ public class Gui extends JFrame {
 		
 		this.setSize(200, 200);
 		this.setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+		//test git
 	}
 	
 	//constructor
